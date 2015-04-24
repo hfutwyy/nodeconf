@@ -1,0 +1,17 @@
+{
+  "name": "nodeconf",
+  "version": "0.1.1",
+  "description": "node.js configuration modules. support reload config file when file be changed.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeconf"
+  ],
+  "author": "weiyanyan",
+  "license": "ISC"
+}

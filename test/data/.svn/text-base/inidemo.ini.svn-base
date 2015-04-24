@@ -1,0 +1,10 @@
+iniconfig_url=www.baidu.com
+iniconfig_name=weiyanyan
+
+; comments are not include in config file
+[group1]
+first_name=yanyan
+second_name=wei
+
+[group2]
+email=weiyanyan@baidu.com
